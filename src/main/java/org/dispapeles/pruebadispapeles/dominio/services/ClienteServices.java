@@ -1,9 +1,9 @@
 package org.dispapeles.pruebadispapeles.dominio.services;
 
 
-import org.dispapeles.pruebadispapeles.dominio.dto.ClienteDTO;
-import org.dispapeles.pruebadispapeles.dominio.entity.ClienteEntity;
-import org.dispapeles.pruebadispapeles.dominio.mapper.ClienteMapper;
+import org.dispapeles.pruebadispapeles.infraestructura.dto.ClienteDTO;
+import org.dispapeles.pruebadispapeles.infraestructura.entity.ClienteEntity;
+import org.dispapeles.pruebadispapeles.infraestructura.mapper.ClienteMapper;
 import org.dispapeles.pruebadispapeles.infraestructura.persistencia.ICliente;
 import org.springframework.stereotype.Service;
 

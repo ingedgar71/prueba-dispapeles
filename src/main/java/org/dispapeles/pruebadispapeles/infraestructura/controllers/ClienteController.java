@@ -3,7 +3,7 @@ package org.dispapeles.pruebadispapeles.infraestructura.controllers;
 
 import jakarta.validation.Valid;
 import jakarta.validation.groups.Default;
-import org.dispapeles.pruebadispapeles.dominio.dto.ClienteDTO;
+import org.dispapeles.pruebadispapeles.infraestructura.dto.ClienteDTO;
 import org.dispapeles.pruebadispapeles.dominio.services.ClienteServices;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

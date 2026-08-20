@@ -1,8 +1,8 @@
 package org.dispapeles.pruebadispapeles.dominio.services;
 
 
-import org.dispapeles.pruebadispapeles.dominio.dto.ClienteDTO;
-import org.dispapeles.pruebadispapeles.dominio.entity.ClienteEntity;
+import org.dispapeles.pruebadispapeles.infraestructura.dto.ClienteDTO;
+import org.dispapeles.pruebadispapeles.infraestructura.entity.ClienteEntity;
 import org.dispapeles.pruebadispapeles.dominio.mapper.ClienteMapperImpl;
 import org.dispapeles.pruebadispapeles.infraestructura.persistencia.ICliente;
 import org.junit.jupiter.api.BeforeEach;

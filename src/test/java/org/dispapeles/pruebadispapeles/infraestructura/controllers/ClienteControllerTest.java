@@ -1,7 +1,7 @@
 package org.dispapeles.pruebadispapeles.infraestructura.controllers;
 
 
-import org.dispapeles.pruebadispapeles.dominio.dto.ClienteDTO;
+import org.dispapeles.pruebadispapeles.infraestructura.dto.ClienteDTO;
 import org.dispapeles.pruebadispapeles.dominio.services.ClienteServices;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package org.dispapeles.pruebadispapeles.dominio.entity;
+package org.dispapeles.pruebadispapeles.infraestructura.entity;
 
 import jakarta.persistence.*;
 

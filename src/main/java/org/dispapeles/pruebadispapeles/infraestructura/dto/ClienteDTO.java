@@ -1,4 +1,4 @@
-package org.dispapeles.pruebadispapeles.dominio.dto;
+package org.dispapeles.pruebadispapeles.infraestructura.dto;
 
 
 import jakarta.validation.constraints.Max;

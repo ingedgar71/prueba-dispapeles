@@ -1,6 +1,6 @@
 package org.dispapeles.pruebadispapeles;
 
-import org.dispapeles.pruebadispapeles.dominio.mapper.ClienteMapper;
+import org.dispapeles.pruebadispapeles.infraestructura.mapper.ClienteMapper;
 import org.dispapeles.pruebadispapeles.dominio.services.ClienteServices;
 import org.dispapeles.pruebadispapeles.infraestructura.advice.ManejadorExcepciones;
 import org.dispapeles.pruebadispapeles.infraestructura.controllers.ClienteController;

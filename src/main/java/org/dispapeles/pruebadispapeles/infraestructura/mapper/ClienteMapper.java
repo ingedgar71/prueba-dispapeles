@@ -1,8 +1,8 @@
-package org.dispapeles.pruebadispapeles.dominio.mapper;
+package org.dispapeles.pruebadispapeles.infraestructura.mapper;
 
 
-import org.dispapeles.pruebadispapeles.dominio.dto.ClienteDTO;
-import org.dispapeles.pruebadispapeles.dominio.entity.ClienteEntity;
+import org.dispapeles.pruebadispapeles.infraestructura.dto.ClienteDTO;
+import org.dispapeles.pruebadispapeles.infraestructura.entity.ClienteEntity;
 import org.mapstruct.BeanMapping;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
